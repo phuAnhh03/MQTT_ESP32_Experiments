@@ -1,5 +1,6 @@
 31 Oct 24
-Bài 1 w6: wip, lỗi phần cứng 
+Bài 1 w6: wip, lỗi phần cứng.
+
 Setup hivemq cloud w/ auth:
 ![hivemq_cloud](./img/1.png)
 
