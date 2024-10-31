@@ -1,10 +1,10 @@
 31 Oct 24
 Bài 1 w6: wip, lỗi phần cứng 
 Setup hivemq cloud w/ auth
-![hivemq_cloud](/img/1.png)
+![hivemq_cloud](./img/1.png)
 
 Kết nối mã hóa với cert của hivemq
-![crt](/img/2.png)
+![crt](./img/2.png)
 
 Tôi để ý thấy mã kết nối wifi của tôi khi dùng WiFi.begin(ssid, pass) rồi check if connected thỉnh thoảng nó bị chạy vô hạn sau khi nạp code, cần phải hard reset lại (bấm nút trên board) thì mới kết nối được với wifi AP. 
 
